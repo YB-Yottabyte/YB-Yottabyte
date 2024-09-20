@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAI RITHWIK KUKUNURI</h1>
 <h3 align="center">I’m passionate about coding, problem-solving, and exploring new technologies. I'm eager to take on new challenges and apply my skills in real-world situations.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/22d15724-d2da-4b3a-b110-c733016536da)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yb-yottabyte&label=Profile%20views&color=0e75b6&style=flat" alt="yb-yottabyte" /> </p>
 
