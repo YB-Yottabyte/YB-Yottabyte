@@ -25,12 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yb-yottabyte&" alt="yb-yottabyte" /></p>
 
 
-<img src="https://raw.githubusercontent.com/YB-Yottabyte/YB-Yottabyte/output/snake.svg" alt="Snake animation" />
-
-
-<img src="https://raw.githubusercontent.com/YB-Yottabyte/YB-Yottabyte/output/snake.svg" alt="Snake animation" />
-
-
-
 
 
