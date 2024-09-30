@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sairithwik2028" target="blank"><img src="https://img.shields.io/twitter/follow/sairithwik2028?logo=twitter&style=for-the-badge" alt="sairithwik2028" /></a> </p>
 
-- 🔭 I’m currently working on **Adaptive Data Source With Learning Abilities**
+- 🔭 I’m currently working on collaborative **Adaptive Data Source With Learning Abilities** project
 
 - 🌱 I’m currently learning **Next.js, React, and Shell**
 
