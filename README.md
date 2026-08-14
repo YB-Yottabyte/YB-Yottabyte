@@ -2,7 +2,7 @@
 
 I'm Sai Rithwik Kukunuri, an Honors CS student at ASU focused on full-stack development, backend systems, and AI/ML.
 
-[View Resume](https://drive.google.com/file/d/1_C7or62iIYNpEUw27eiSukRWHfobTGSt/view?usp=sharing)
+[View Resume](https://drive.google.com/file/d/1m7R4GX9RdD6WisJ0zef2VtJi1pm8ut5P/view?usp=sharing)
 
 Currently working on undergraduate research at ASU's Biodesign Institute and interested in scalable software, APIs, and real-world engineering problems.
 
@@ -15,34 +15,18 @@ Python · TypeScript · JavaScript · Java · C++ · SQL
 React · Next.js · HTML · CSS · Figma
 
 **Backend & APIs:**  
-FastAPI · Flask · Spring Boot · REST APIs · MongoDB · PostgreSQL · MySQL
+Node.js · FastAPI · Flask · REST APIs · MongoDB · PostgreSQL · MySQL
 
 **AI & ML:**  
-PyTorch · TensorFlow · Scikit-learn · NumPy · OpenCV · SAM 2 · Qdrant · RAG pipelines · Groq
+LangChain · HuggingFace Transformers · FAISS · RAG Pipelines · Embeddings · PyTorch · Scikit-learn · NumPy · OpenCV
 
 **Cloud & Tools:**  
-Git · GitHub · CI/CD · Docker · AWS · Azure
+Git · GitHub · Docker · CI/CD · AWS · Azure · Jira
 
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/rithwik0801/
-- Email:    sairithwikkukunuri@gmail.com
+- Email:    sairithwik0108@gmail.com
 
-<!-- 
-## GitHub Stats
-
-<p>
-  <img src="https://github-stats-phi-nine.vercel.app/api?username=ZB-ZettaByte&show_icons=true&hide_border=false" width="430" />
-  <img src="https://github-stats-phi-nine.vercel.app/api/top-langs/?username=ZB-ZettaByte&layout=compact&langs_count=6&card_width=320&hide=jupyter%20notebook,swig,php,fluent&hide_border=false" width="330" />
-</p>
-
-<details>
-<summary>Contribution Streak</summary>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=ZB-ZettaByte&theme=default&hide_border=false" width="520" />
-</p>
-</details>
--->
 ---
 Building scalable software and learning something new every day
