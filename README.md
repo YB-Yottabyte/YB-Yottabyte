@@ -1,32 +1,61 @@
 # Hey there 👋
 
-I'm Sai Rithwik Kukunuri, an Honors CS student at ASU focused on full-stack development, backend systems, and AI/ML.
+I'm **Sai Rithwik Kukunuri**, an Honors Computer Science student at **Arizona State University**, pursuing a **B.S. in Computer Science**, a **Data Science minor**, and an **Accelerated M.S. in Robotics & Autonomous Systems (AI)**.
 
-[View Resume](https://drive.google.com/file/d/1m7R4GX9RdD6WisJ0zef2VtJi1pm8ut5P/view?usp=sharing)
+I enjoy building **full-stack applications, backend systems, data pipelines, and AI/ML solutions** that solve real-world engineering problems.
 
-Currently working on undergraduate research at ASU's Biodesign Institute and interested in scalable software, APIs, and real-world engineering problems.
+## What I'm Working On
+
+- **Software Engineer Intern @ Winterton Brothers** — Building automated product-intake workflows using REST APIs, Power Automate, SharePoint, and AI.
+- **Research Assistant @ ASU Make Programming Simple Lab** — Developing ML surrogate models for scientific simulations and running experiments on ASU's Sol supercomputer.
+- **Research Success Data Aide @ ASU College of Health Solutions** — Building Python automation, data workflows, and research infrastructure.
+- Currently expanding my knowledge in **AWS, data engineering, distributed systems, and AI agents**.
 
 ## Tools & Tech
 
-**Languages:**  
-Python · TypeScript · JavaScript · Java · C++ · SQL
+**Languages**  
+Python · Java · TypeScript · JavaScript · SQL · C++ · Bash
 
-**Frontend:**  
-React · Next.js · HTML · CSS · Figma
+**Frontend & Backend**  
+React · Next.js · Spring Boot · FastAPI · Flask · REST APIs · HTML/CSS
 
-**Backend & APIs:**  
-Node.js · FastAPI · Flask · REST APIs · MongoDB · PostgreSQL · MySQL
+**Data & Databases**  
+PostgreSQL · MySQL · MongoDB · Pandas · ETL · Snowflake · Power BI · Tableau
 
-**AI & ML:**  
-LangChain · HuggingFace Transformers · FAISS · RAG Pipelines · Embeddings · PyTorch · Scikit-learn · NumPy · OpenCV
+**AI & ML**  
+PyTorch · TensorFlow · scikit-learn · RAG · AI Agents · LLM APIs · NLP · FAISS
 
-**Cloud & Tools:**  
-Git · GitHub · Docker · CI/CD · AWS · Azure · Jira
+**Cloud & DevOps**  
+AWS · Azure · Docker · Git · GitHub Actions · CI/CD · Linux · Power Automate
+
+## Featured Work
+
+### Semiconductor Analytics
+- Built an automated **Python/SQL ETL pipeline** integrating SEC financial filings across **388 company quarters** with **2,435 semiconductor industry records**.
+- Developed automated validation workflows and **Power BI dashboards** to analyze company performance, regional trends, and semiconductor market growth.
+
+### Tally
+- Built a full-stack **personal finance platform** using **Java, Spring Boot, Hibernate, Keycloak, and Docker** for transaction management and financial analytics.
+- Integrated secure **OAuth2/OIDC authentication** and a **RAG-powered financial assistant** for context-aware financial queries.
+
+### ML for Scientific Computing
+- Develop **ML surrogate models** for computationally expensive thermal and microstructure simulations in advanced manufacturing research.
+- Reduced prediction **MSE by 36% versus baseline** using a flow-matching surrogate trained on **Cahn-Hilliard simulation data across three concentration conditions**.
+
+## Certifications
+
+- **AWS Certified AI Practitioner**
+- **AWS Certified Data Engineer – Associate** — *In Progress*
+- **Snowflake – The Complete Masterclass**
+- **SAP — Outlining Processes in Payables Management**
+- **SAP — Outlining Processes in Record to Report**
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/rithwik0801/
-- Email:    sairithwik0108@gmail.com
+**Portfolio:** yb-yottabyte.github.io/portfolio/  
+**LinkedIn:** linkedin.com/in/rithwik0801  
+**Email:** sairithwik0108@gmail.com
 
 ---
-Building scalable software and learning something new every day
+
+*Building scalable systems, exploring intelligent software, and turning ideas into working products.*
