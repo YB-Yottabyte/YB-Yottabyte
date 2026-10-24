@@ -6,9 +6,9 @@ I enjoy building **full-stack applications, backend systems, data pipelines, and
 
 ## What I'm Working On
 
-- **Software Engineer Intern @ Winterton Brothers** — Building automated product-intake workflows using REST APIs, Power Automate, SharePoint, and AI.
-- **Research Assistant @ ASU Make Programming Simple Lab** — Developing ML surrogate models for scientific simulations and running experiments on ASU's Sol supercomputer.
-- **Research Success Data Aide @ ASU College of Health Solutions** — Building Python automation, data workflows, and research infrastructure.
+- **Software Engineer Intern @ Winterton Brothers** - Building automated product-intake workflows using REST APIs, Power Automate, SharePoint, and AI.
+- **Research Assistant @ ASU Make Programming Simple Lab** - Developing ML surrogate models for scientific simulations and running experiments on ASU's Sol supercomputer.
+- **Research Success Data Aide @ ASU College of Health Solutions** - Building Python automation, data workflows, and research infrastructure.
 - Currently expanding my knowledge in **AWS, data engineering, distributed systems, and AI agents**.
 
 ## Tools & Tech
@@ -45,10 +45,10 @@ AWS · Azure · Docker · Git · GitHub Actions · CI/CD · Linux · Power Autom
 ## Certifications
 
 - **AWS Certified AI Practitioner**
-- **AWS Certified Data Engineer – Associate** — *In Progress*
-- **Snowflake – The Complete Masterclass**
-- **SAP — Outlining Processes in Payables Management**
-- **SAP — Outlining Processes in Record to Report**
+- **AWS Certified Data Engineer - Associate** — *In Progress*
+- **Snowflake - The Complete Masterclass**
+- **SAP - Outlining Processes in Payables Management**
+- **SAP - Outlining Processes in Record to Report**
 
 ## Connect
 
