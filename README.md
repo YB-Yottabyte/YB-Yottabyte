@@ -46,7 +46,7 @@ AWS · Azure · Docker · Git · GitHub Actions · CI/CD · Linux · Power Autom
 
 - **AWS Certified AI Practitioner**
 - **AWS Certified Data Engineer - Associate** — *In Progress*
-- **Microsoft Certified: Fabric Data Engineer Associate (DP-700) — In Progress**
+- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** — *In Progress*
 - **Snowflake - The Complete Masterclass**
 - **SAP - Outlining Processes in Payables Management**
 - **SAP - Outlining Processes in Record to Report**
